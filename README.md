@@ -30,5 +30,4 @@ SYSTEM SCREENSHOTS
 <img src = "04.png" width ="1000" />
 <img src = "05.png" width ="1000" />
 
-SYSTEM LINK:
-https://hysabat.pk
+SYSTEM DEMO LINK: https://drive.google.com/file/d/1mMEDIdja4Aeh2geOGW60tgAwiwZsaiZn/view?usp=sharing
